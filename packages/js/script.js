@@ -1,4 +1,4 @@
-function btnClick(){
+function submitClick(){
     let btn;
 
     var name=document.getElementById("name").value.trim();
